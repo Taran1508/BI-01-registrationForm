@@ -1,7 +1,7 @@
-# BI-01-registrationForm
+#RegistrationForm
 
 ## Description
-This is my first task as a Full-Stack developer intern @BharatIntern, 
+This is my first project to showcase my skills Full-Stack development 
 #### Task name : 
 Registration Form
 #### Tech-Stack Used:
